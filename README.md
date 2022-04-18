@@ -5,8 +5,9 @@
 
 ## Stack 🧶
 
-Frontend: React, Redux, Redux-Thunk, Hardhat, Solidity;
-Backend: Node, Express;
+**Frontend: React, Redux, Redux-Thunk, Hardhat, Solidity;**
+
+**Backend: Node, Express;**
 
 ## Команда 👥
 
