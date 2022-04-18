@@ -11,8 +11,11 @@ Backend: Node, Express;
 ## Команда 👥
 
 **Maxim Mukhanov**(me) - fullstack javascript developer - github link: https://github.com/MaximMukhanov
+
 **Sergei Smirnov** - frontend javascript developer - github link: https://github.com/111398
+
 **Dzhihad Hadzh Hussein** - frontend javascript developer - github link: https://github.com/hadzhehsen
+
 **Ilya Chaplin** - frontend javascript developer - github link: https://github.com/ichaplin85
 
 ## Мой вклад 💎
